@@ -4,27 +4,27 @@ import Card from "./Card";
 import FullScreenSection from "./FullScreenSection";
 const projects = [
   {
-    title: "React Space",
+    title: "MOOBEE - (NETFLIX Like Website)",
     description:
-      "Handy tool belt to create amazing AR components in a React app, with redux integration via middleware️",
+      "NETFLIX immitation website with JavaScript authentication, some animations and CSS Flexbox as well as directing links. Login email is: bimdev@outlook.com and Pass is: bimdev123. Give it a go! :)",
     getImageSrc: () => require("../images/photo1.jpg"),
   },
   {
-    title: "React Infinite Scroll",
+    title: "PCBUD (Educational Web App)",
     description:
-      "A scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥️",
+      "This is (currently) a responsive landing page to an educational web app for kids and teens as well as adults who are interested in the Computers/IT field but starting with the basics.",
     getImageSrc: () => require("../images/photo2.jpg"),
   },
   {
-    title: "Photo Gallery",
+    title: "YAZAM (Travel Agency Landing Page)",
     description:
       "A One-stop shop for photographers to share and monetize their photos, allowing them to have a second source of income",
     getImageSrc: () => require("../images/photo3.jpg"),
   },
   {
-    title: "Event planner",
+    title: "Mangata Gallo (Local Online Shop)",
     description:
-      "A mobile application for leisure seekers to discover unique events and activities in their city with a few taps",
+      "This is an online shop for a local jewellery store to expand their business traffic, marketing and growth.",
     getImageSrc: () => require("../images/photo4.jpg"),
   },
 ];
