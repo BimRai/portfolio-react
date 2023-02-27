@@ -18,7 +18,7 @@ const projects = [
   {
     title: "YAZAM (Travel Agency Landing Page)",
     description:
-      "A One-stop shop for photographers to share and monetize their photos, allowing them to have a second source of income",
+      "A warm welcoming landing page for travellers ready to book off their next adventure.",
     getImageSrc: () => require("../images/photo3.jpg"),
   },
   {
